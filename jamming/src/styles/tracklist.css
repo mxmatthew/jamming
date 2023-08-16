@@ -1,0 +1,12 @@
+.tracklist {
+    padding:15px;
+    background:#222;
+    margin-top:12px;
+    border-radius:5px;
+    max-height:calc(100vh - 130px);
+    overflow:auto;
+}
+
+.playlist .tracklist {
+    max-height:calc(100vh - 190px);
+}

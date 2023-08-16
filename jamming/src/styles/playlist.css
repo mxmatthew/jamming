@@ -1,0 +1,23 @@
+.playlist {
+    margin-left:calc(30% + 30px + 15px);
+    margin-right:15px;
+    margin-top:15px;
+}
+
+.playlist input {
+    width:calc(100% - 30px);
+    padding:15px;
+    background:#222;
+    color:#FFF;
+    border:0px;
+    font-size:1.5rem;
+    border-radius:5px;
+}
+
+.playlist button.savePlaylist {
+    padding:15px;
+    background:lightgreen;
+    border:0px;
+    border-radius:5px;
+    margin-top:15px;
+}
